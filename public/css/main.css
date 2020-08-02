@@ -44,6 +44,7 @@ header a {
 
 .portrait {
   width: 250px;
+  margin-top: 20px;
 }
 
 .weather_input {
